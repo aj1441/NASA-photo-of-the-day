@@ -49,7 +49,6 @@ img {
     align-items: center;
   }
 }
-}
 @media (min-width: 600px) {
   .heros-grid-container {
     display: grid;
